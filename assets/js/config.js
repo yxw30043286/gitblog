@@ -20,7 +20,7 @@ export const CONFIG = {
     favicon: "https://gitpull.cn/assets/%E7%BA%B8%E9%A3%9E%E6%9C%BA.svg",
     avatar: "https://gitpull.cn/assets/uploads/2026/05/touxiang.jpg",
     description: "桃李春风一杯酒，江湖夜雨十年灯。",
-    url: "https://yxwblog.cn",
+    url: "https://yxw30043286.github.io/gitblog",
     locale: "zh-CN",
     nav: [
       {
