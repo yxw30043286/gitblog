@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "slug": "test",
+      "title": "test_title",
+      "date": "2026-05-18T11:33:58.867Z",
+      "updated": "2026-05-18T11:33:58.867Z",
+      "author": "yew",
+      "summary": "test content",
+      "tags": [
+        "test"
+      ],
+      "path": "posts/test.md"
+    },
+    {
       "slug": "cpti-love-personality-test-intro",
       "title": "CPTI：手机上就能玩的恋爱人格小测验",
       "date": "2026-05-14",
