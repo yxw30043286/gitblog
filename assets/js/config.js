@@ -7,7 +7,7 @@ export const VERSION = '20260514040000';
 
 export const CONFIG = {
   repo: {
-    owner: "yxw",
+    owner: "yxw30043286",
     name: "gitblog",
     branch: "main"
   },
