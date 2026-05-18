@@ -3,7 +3,7 @@
 // 这里都是公开信息，不要把 token 等密钥放进来
 // ============================================================================
 
-export const VERSION = '20260514040000';
+export const VERSION = '20260518194933';
 
 export const CONFIG = {
   repo: {
@@ -13,13 +13,13 @@ export const CONFIG = {
   },
   authorizedUsers: ["yxw30043286"],
   site: {
-    title: "小红鸡",
+    title: "yxw_test",
     subtitle: "记录想法与代码",
-    author: "Jimmy",
+    author: "yew",
     logo: "https://gitpull.cn/assets/%E7%BA%B8%E9%A3%9E%E6%9C%BA.svg",
     favicon: "https://gitpull.cn/assets/%E7%BA%B8%E9%A3%9E%E6%9C%BA.svg",
     avatar: "https://gitpull.cn/assets/uploads/2026/05/touxiang.jpg",
-    description: "桃李春风一杯酒，江湖夜雨十年灯。",
+    description: "test",
     url: "https://yxw30043286.github.io/gitblog",
     locale: "zh-CN",
     nav: [
