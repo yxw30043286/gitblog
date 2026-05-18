@@ -11,7 +11,7 @@ export const CONFIG = {
     name: "gitblog",
     branch: "main"
   },
-  authorizedUsers: ["flymysql"],
+  authorizedUsers: ["yxw30043286"],
   site: {
     title: "小红鸡",
     subtitle: "记录想法与代码",
