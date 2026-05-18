@@ -7,7 +7,7 @@ export const VERSION = '20260514040000';
 
 export const CONFIG = {
   repo: {
-    owner: "flymysql",
+    owner: "yxw",
     name: "gitblog",
     branch: "main"
   },
